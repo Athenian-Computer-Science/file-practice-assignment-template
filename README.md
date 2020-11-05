@@ -19,7 +19,6 @@ message.replace('winter', 'summer')
 
 >>> I like summer break.
 ```
-Then, use `replace()` again to reverse the changes so the file is in its original state. (This will allow the program to run again without throwing errors.)
 
 ### Task 3
 Finally, count the number of words in the file.
