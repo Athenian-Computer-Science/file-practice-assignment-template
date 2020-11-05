@@ -1,7 +1,7 @@
 # File Practice
 
 ## Problem Description
-In this exercise, you will create a text file and save it in this repo. Then, write aprogram that reads the file and
+In this exercise, you will create a text file and save it in this repo. Then, write a program that reads the file and
  prints it 3 times:
 1) Print the contents once by reading the entire file at once
 2) Print the contents by looping over the file object
