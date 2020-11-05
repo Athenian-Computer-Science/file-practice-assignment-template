@@ -1,25 +1,13 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# File Practice
 
 ## Problem Description
-Problem description goes here. 
+In this exercise, you will create a text file and save it in this repo. Then, write aprogram that reads the file and
+ prints it 3 times:
+1) Print the contents once by reading the entire file at once
+2) Print the contents by looping over the file object
+3) Print the contents by storing the lines in a list and then working with them outside the `with` block
 
-* Steps to take go here. 
+Next, use the  `replace()` method to replace a specific word with another word (for every occurence.) Print the
+ modified text to the screen.
 
-## Example
-```
-Value to increment? 5
-10
-```
-
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
 
